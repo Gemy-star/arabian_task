@@ -1,0 +1,16 @@
+
+.dropdown-demo .p-dropdown {
+    width: 14rem;
+}
+
+.dropdown-demo .country-item-value img.flag {
+    width: 17px;
+}
+
+
+.center {
+    margin: auto;
+    margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  }
