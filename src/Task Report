@@ -1,0 +1,18 @@
+# Frist of all its Required to install npm modules To use this React js application correctly using the following command:
+npm i -- 
+
+#Summarized Report for the task:
+
+1. Data loads from the targeted URL on the website loads for the first time ONLY , you can see a json for all the data in the console , just open the console using F12
+
+2. Language can be changed all over the 3 Pages using a drop down menu ; once it's changed in one page , it changes on the other 2 pages.
+
+3 . install other depandancies needed for other application components :
+  
+  1.react-router-dom
+  2.react-redux
+  3. i18n for localization
+  4. react-intl
+  5. reportWebVitals
+  6.primereact library
+  
